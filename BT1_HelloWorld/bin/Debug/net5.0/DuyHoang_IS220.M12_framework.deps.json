@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DuyHoang_IS220.M12_framework/1.0.0": {
+        "runtime": {
+          "DuyHoang_IS220.M12_framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DuyHoang_IS220.M12_framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
